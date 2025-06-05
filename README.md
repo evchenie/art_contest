@@ -20,7 +20,10 @@ This folder includes all data used in the analyses reported in the manuscript. I
 
 The data file is stored in `.csv` format and is analysis-ready.
 
-**High-resolution versions of the contest artworks are available via the project’s OSF repository (https://osf.io/y3mdr/files/osfstorage), under the folder `Artworks`.**
+
+***For the artworks themselves:***
+
+High-resolution versions of the contest artworks are available via the project’s OSF repository (https://osf.io/y3mdr/files/osfstorage), under the folder `Artworks`.
 - **86 artworks** were accepted and used in the experiments and analyses described in the paper.
 - **4 additional artworks** are included for completeness but were not used in any analysis (e.g., due to disqualification or artist withdrawal).
   
