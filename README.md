@@ -7,15 +7,6 @@ available at  https://osf.io/preprints/psyarxiv/3g5az_v1
 
 ---
 
-## 📁 `90_artworks/`
-
-This folder contains high-resolution images of artworks submitted to our nationwide art contest.
-
-- **86 artworks** were accepted and used in the experiments and analyses described in the paper.
-- **4 additional artworks** are included for completeness but were not used in any analysis due to disqualification.
-
----
-
 ## 📁 `data/`
 
 This folder includes all data used in the analyses reported in the manuscript. It contains:
