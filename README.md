@@ -26,7 +26,7 @@ High-resolution versions of the contest artworks are available via the projectâ€
 - **86 artworks** were accepted and used in the experiments and analyses described in the paper.
 - **4 additional artworks** are included for completeness but were not used in any analysis (e.g., due to disqualification or artist withdrawal).
   
-**Note:** Each image filename in the `Artworks` folder is indexed to match the `Image_Num` column in this data CSV (`All_Predictors`), allowing direct correspondence between artwork images and their associated metadata and Behavioral results.
+**Note:** Each image filename in the `Artworks` folder is indexed to match the `Image_Num` column in this data CSV (`All_Predictors`), allowing direct correspondence between artwork images and their associated metadata and Behavioral results. Note that there is no image numbered 73, which is why the numbering extends to 91 despite there being only 90 artworks. The final four images (Image_Num 88â€“91) correspond to the four additional artworks that were excluded from all analyses.
 
 ---
 
