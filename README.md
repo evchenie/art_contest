@@ -2,8 +2,7 @@
 
 This repository contains the full dataset and analysis code accompanying the preprint:
 
-**"Artists Can Design Memory, and AI Can Predict It"**  
-available at  https://osf.io/preprints/psyarxiv/3g5az_v1 
+**"Artists Can Design Memory, and AI Can Predict It"**  (https://osf.io/preprints/psyarxiv/3g5az_v1) 
 
 ---
 
